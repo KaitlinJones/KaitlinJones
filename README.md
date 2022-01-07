@@ -1,4 +1,4 @@
-# Kaitlin Jones' Github Profile. 
+# Kaitlin Jones's Github Profile. 
 
 Hello and welcome! I am a software development student formally studying at CIAT and, informally,  throughout the web utilizing resources like The Odin Project and Learn Enough. Here, I will be updating my progress and keeping track of certificates of completion. Thanks for coming by and please note that this profile is a work in progress much like myself! 
 
